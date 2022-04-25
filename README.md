@@ -1,5 +1,5 @@
 # Analyzing the CTA Database 
-**Chicago Transit Authority (CTA)**
+*Chicago Transit Authority (CTA)*
 
 This is a command-line interface (CLI) that offers various commands (1-9) to query the public CTA database such as ridership, station names, and more.
 
